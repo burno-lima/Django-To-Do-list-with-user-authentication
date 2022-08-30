@@ -14,7 +14,7 @@ git clone https://github.com/burno-lima/Django-To-Do-list-with-user-authenticati
 python -m venv .venv
 ```
 ```sh
-.venv/Scripts/activate
+.venv\Scripts\activate
 ```
 - Install dependency for project.
 
