@@ -16,3 +16,26 @@ python -m venv .venv
 ```sh
 .venv/Scripts/activate
 ```
+- Install dependency for project.
+
+```sh
+pip install -r requirements.txt
+```
+
+- Perform pending migration.
+
+```sh
+python manage.py migrate
+```
+
+- Create superuser.
+
+```sh
+python manage.py createsuperuser --username="admin" --email="admin@email.com"
+```
+
+- Start server.
+
+```sh
+python manage.py runserver
+```
