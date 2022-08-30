@@ -1,6 +1,6 @@
 # Django-To-Do-list-with-user-authentication
 
-<h1>Installation</h1>
+##Installation
 
 - First clone the project.
 
