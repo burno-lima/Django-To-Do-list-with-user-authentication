@@ -8,7 +8,7 @@ Installation
 git clone https://github.com/burno-lima/Django-To-Do-list-with-user-authentication.git
 ```
 
-- Create venv
+- Create venv and activate.
 
 ```sh
 python -m venv .venv
